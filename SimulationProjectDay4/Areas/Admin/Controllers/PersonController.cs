@@ -30,6 +30,7 @@ namespace SimulationProjectDay4.Areas.Admin.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(PersonCreateVM vm)
         {
             ViewBag.Psitions = await _context.Positions.ToListAsync();
@@ -89,7 +90,7 @@ namespace SimulationProjectDay4.Areas.Admin.Controllers
             {
                 if (!vm.ImageFile.ContentType.StartsWith("image"))
                     ModelState.AddModelError("ImageFile", "File type must be image");
-                if (!((vm.ImageFile.Length) > 2 * 1024 * 1024))
+                if (((vm.ImageFile.Length) > 2 * 1024 * 1024))
                     ModelState.AddModelError("ImageFile", "File size must be less than 200kb ");
             }
             if (!ModelState.IsValid)

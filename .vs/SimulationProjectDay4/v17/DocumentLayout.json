@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\dataaccesslayer\\mosaicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\dataaccesslayer\\mosaicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\viewmodels\\persons\\personupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\persons\\personupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\person\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\person\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\viewmodels\\persons\\personcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\persons\\personcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\viewmodels\\persons\\persongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\persons\\persongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\viewmodels\\positions\\positiongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\positions\\positiongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\viewmodels\\positions\\positioncreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\positions\\positioncreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\viewmodels\\positions\\positionupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\positions\\positionupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\classtime\\desktop\\simulationday4\\simulationprojectday4\\migrations\\20250519062813_createdpersonsandpositionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\migrations\\20250519062813_createdpersonsandpositionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:31:35.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Enums\\Roles.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:35:21.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:10:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:05:00.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Models\\Role.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:59:19.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Models\\User.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:58:38.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAD4vzkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Program.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Program.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Program.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MosaicDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\DataAccessLayer\\MosaicDbContext.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\DataAccessLayer\\MosaicDbContext.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\DataAccessLayer\\MosaicDbContext.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\DataAccessLayer\\MosaicDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Create.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Create.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonUpdateVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Persons\\PersonUpdateVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonUpdateVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Persons\\PersonUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Update.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Update.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonCreateVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Persons\\PersonCreateVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonCreateVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Persons\\PersonCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250519062813_CreatedPersonsAndPositionsTable.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Migrations\\20250519062813_CreatedPersonsAndPositionsTable.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Migrations\\20250519062813_CreatedPersonsAndPositionsTable.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Migrations\\20250519062813_CreatedPersonsAndPositionsTable.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Migrations\\20250519062813_CreatedPersonsAndPositionsTable.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUBAAAAAAAAAADgvy8BAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SimulationProjectDay4\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-19T12:06:10.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAABAAAAAAAAAADgvx0BAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\appsettings.json",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\appsettings.json",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\appsettings.json",
+              "RelativeToolTip": "SimulationProjectDay4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T12:06:10.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Models\\Position.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Models\\Person.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PositionGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Positions\\PositionGetVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Positions\\PositionGetVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Positions\\PositionGetVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Positions\\PositionGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PositionCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Positions\\PositionCreateVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Positions\\PositionCreateVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Positions\\PositionCreateVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Positions\\PositionCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PositionUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Positions\\PositionUpdateVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Positions\\PositionUpdateVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Positions\\PositionUpdateVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Positions\\PositionUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay4\\SimulationProjectDay4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
