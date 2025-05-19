@@ -1,0 +1,15 @@
+﻿@using SimulationProjectDay4.ViewModels.Positions
+@model PositionCreateVM
+<form method="post">
+    <div>
+        <a classa="btn btn-primary" asp-action="Index">Go to list</a>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1" asp-for="Name">Name</label>
+        <input class="form-control" asp-for="Name" placeholder="Enter name">
+       <span asp-validation-for="Name"></span>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

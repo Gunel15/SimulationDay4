@@ -1,0 +1,31 @@
+﻿@using SimulationProjectDay4.ViewModels.Persons
+@model PersonUpdateVM
+<form method="post" enctype="multipart/form-data">
+    <div>
+        <a classa="btn btn-primary" asp-action="Index">Go to list</a>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1" asp-for="Name">Name</label>
+        <input class="form-control" asp-for="Name" placeholder="Enter name">
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1" asp-for="ImageFile">ImageFile</label>
+        <input class="form-control" asp-for="ImageFile">
+        <span asp-validation-for="ImageFile"></span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1" asp-for="PositionId">Position</label>
+        <select asp-for="PositionId" asp-items='new SelectList(ViewBag.Positions,"Id","Name")' class="form-select"></select>
+        <span asp-validation-for="PositionId"></span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1" asp-for="Description">Description</label>
+        <input class="form-control" asp-for="Description" placeholder="Enter Description">
+        <span asp-validation-for="Description"></span>
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

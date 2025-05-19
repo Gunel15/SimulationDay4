@@ -1,0 +1,35 @@
+﻿@using SimulationProjectDay4.ViewModels.Positions
+@model List<PositionGetVM>
+@{
+    int order = 1;
+}
+<div>
+    <a class="btn btn-primary" asp-action="Create">Create</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Actions</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                    <a class="btn btn-primary" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+                
+            </tr>
+        }
+       
+  
+    </tbody>
+</table>
+

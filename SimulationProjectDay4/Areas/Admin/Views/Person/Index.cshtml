@@ -1,0 +1,37 @@
+﻿@using SimulationProjectDay4.ViewModels.Persons
+@model List<PersonGetVM>
+@{
+    int order = 1;
+}
+<a class="btn btn-primary" asp-action="Create">Create</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Image</th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Position's name</th>
+            <th scope="col">Actions</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@(order++)</th>
+                <td>@item.Name</td>
+                <td><img src="~/imgs/persons/@item.ImageUrl" width="50" height="50"/></td>
+                <td>@item.Description</td>
+                <td>@item.PositionName</td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                    <a class="btn btn-secondary" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
