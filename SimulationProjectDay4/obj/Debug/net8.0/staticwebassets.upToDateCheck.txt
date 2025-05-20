@@ -1934,3 +1934,5 @@ wwwroot\imgs\persons\80d417e3-d0bd-4d8a-a8e1-b714d9020410car white.jpg
 wwwroot\imgs\persons\82f47b58-089c-4c04-956e-f326d3cc5ac0apple.png
 wwwroot\imgs\persons\ba7ece79-bd34-44f5-943d-90852e9a7e2asas.png
 wwwroot\imgs\persons\cc941498-926c-4062-a9b9-1345072b80cccar garage back.jpg
+wwwroot\imgs\persons\ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png
+wwwroot\imgs\persons\f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg

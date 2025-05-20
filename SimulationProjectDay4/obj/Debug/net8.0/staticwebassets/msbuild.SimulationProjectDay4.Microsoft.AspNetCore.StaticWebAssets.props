@@ -34848,5 +34848,41 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\cc941498-926c-4062-a9b9-1345072b80cccar garage back.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SimulationProjectDay4</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SimulationProjectDay4</BasePath>
+      <RelativePath>imgs/persons/ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2hl3hf0qf5</Fingerprint>
+      <Integrity>iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SimulationProjectDay4</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SimulationProjectDay4</BasePath>
+      <RelativePath>imgs/persons/f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lm8j0o7czi</Fingerprint>
+      <Integrity>bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>

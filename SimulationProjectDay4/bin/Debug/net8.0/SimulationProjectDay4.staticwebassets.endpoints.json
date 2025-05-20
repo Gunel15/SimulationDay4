@@ -158917,6 +158917,170 @@
           "Value": "imgs/persons/cc941498-926c-4062-a9b9-1345072b80cccar garage back.jpg"
         }
       ]
+    },
+    {
+      "Route": "imgs/persons/ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.2hl3hf0qf5.png",
+      "AssetFile": "imgs/persons/ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 18:01:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hl3hf0qf5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0="
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/persons/ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png"
+        }
+      ]
+    },
+    {
+      "Route": "imgs/persons/ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png",
+      "AssetFile": "imgs/persons/ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 18:01:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iqMEFhSUSGrxtx7kGi5B+ZNziPiAFHT/oF1XYOvccU0="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/persons/f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg",
+      "AssetFile": "imgs/persons/f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 17:30:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/persons/f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.lm8j0o7czi.jpg",
+      "AssetFile": "imgs/persons/f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 17:30:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lm8j0o7czi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYKMrGCIhooBYeK/AlO+kewkwmlrCriFJiP2uf33Zqs="
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/persons/f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg"
+        }
+      ]
     }
   ]
 }

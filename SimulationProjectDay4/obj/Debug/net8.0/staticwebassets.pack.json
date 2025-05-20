@@ -7745,6 +7745,14 @@
       "PackagePath": "staticwebassets\\imgs\\persons\\cc941498-926c-4062-a9b9-1345072b80cccar garage back.jpg"
     },
     {
+      "Id": "C:\\Users\\V&V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\wwwroot\\imgs\\persons\\ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png",
+      "PackagePath": "staticwebassets\\imgs\\persons\\ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png"
+    },
+    {
+      "Id": "C:\\Users\\V&V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\wwwroot\\imgs\\persons\\f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg",
+      "PackagePath": "staticwebassets\\imgs\\persons\\f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimulationProjectDay4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

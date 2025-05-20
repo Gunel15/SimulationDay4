@@ -23232,5 +23232,29 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mwe83o5obw"},{"Name":"integrity","Value":"sha256-dpDe5o94KuxgzwuQlofrEhDKGZq8JIcG1QVKAZLfNdY="},{"Name":"label","Value":"_content/SimulationProjectDay4/imgs/persons/cc941498-926c-4062-a9b9-1345072b80cccar garage back.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"321093"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022dpDe5o94KuxgzwuQlofrEhDKGZq8JIcG1QVKAZLfNdY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 18:49:06 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SimulationProjectDay4/imgs/persons/ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.2hl3hf0qf5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2hl3hf0qf5"},{"Name":"integrity","Value":"sha256-iqMEFhSUSGrxtx7kGi5B\u002BZNziPiAFHT/oF1XYOvccU0="},{"Name":"label","Value":"_content/SimulationProjectDay4/imgs/persons/ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12413"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022iqMEFhSUSGrxtx7kGi5B\u002BZNziPiAFHT/oF1XYOvccU0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 18:01:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SimulationProjectDay4/imgs/persons/ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\ee5f062a-4b4b-4f4a-b575-99a5cef3ca11Apple-Logo_1718603647.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iqMEFhSUSGrxtx7kGi5B\u002BZNziPiAFHT/oF1XYOvccU0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12413"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022iqMEFhSUSGrxtx7kGi5B\u002BZNziPiAFHT/oF1XYOvccU0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 18:01:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SimulationProjectDay4/imgs/persons/f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bYKMrGCIhooBYeK/AlO\u002BkewkwmlrCriFJiP2uf33Zqs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"90143"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bYKMrGCIhooBYeK/AlO\u002BkewkwmlrCriFJiP2uf33Zqs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 17:30:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SimulationProjectDay4/imgs/persons/f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.lm8j0o7czi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lm8j0o7czi"},{"Name":"integrity","Value":"sha256-bYKMrGCIhooBYeK/AlO\u002BkewkwmlrCriFJiP2uf33Zqs="},{"Name":"label","Value":"_content/SimulationProjectDay4/imgs/persons/f4418f2e-da31-4147-bc16-c1907a30d982Font-Samsung-Logo.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"90143"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bYKMrGCIhooBYeK/AlO\u002BkewkwmlrCriFJiP2uf33Zqs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 17:30:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

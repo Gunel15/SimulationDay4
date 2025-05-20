@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\viewmodels\\persons\\persongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\persons\\persongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\areas\\admin\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\areas\\admin\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\persons\\personcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\viewmodels\\persons\\persongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\viewmodels\\persons\\persongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -137,14 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|solutionrelative:simulationprojectday4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B12CF7D-CF6A-4C0C-B200-6BD6EF5A0CA6}|SimulationProjectDay4\\SimulationProjectDay4.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\simulationday4\\simulationprojectday4\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -178,141 +182,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\HomeVM.cs*",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\HomeVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:36:23.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "SimulationProjectDay4\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvyAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "SimulationProjectDay4\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAIAwwBkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T11:57:01.48Z",
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgv4gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
-              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:31:35.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Controllers\\AccountController.cs",
               "RelativeToolTip": "SimulationProjectDay4\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAArwFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T13:05:00.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Program.cs",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\Program.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Program.cs",
-              "RelativeToolTip": "SimulationProjectDay4\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADgvycAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PersonGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:06:10.393Z",
+              "WhenOpened": "2025-05-19T12:06:10.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Account\\Login.cshtml*",
-              "RelativeToolTip": "SimulationProjectDay4\\Views\\Account\\Login.cshtml*",
-              "ViewState": "AgIAACMAAAAAAAAAAIAwwDYAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "SimulationProjectDay4\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAALcBAAAAAAAAAADgv7oBAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T12:05:25.496Z",
+              "WhenOpened": "2025-05-19T12:06:10.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "SimulationProjectDay4\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T12:06:10.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
-              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:10:26.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAADgvw0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T12:06:10.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PositionController.cs",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:06:10.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAcwIgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:06:10.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -325,7 +277,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T12:05:25.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:10:26.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Program.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Program.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvycAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:31:35.59Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwBkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T11:57:01.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvw0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "SimulationProjectDay4\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:06:10.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Models\\User.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Models\\User.cs",
@@ -333,12 +382,11 @@
               "RelativeToolTip": "SimulationProjectDay4\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:58:38.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:58:38.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "MosaicDbContext.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\DataAccessLayer\\MosaicDbContext.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\DataAccessLayer\\MosaicDbContext.cs",
@@ -346,12 +394,11 @@
               "RelativeToolTip": "SimulationProjectDay4\\DataAccessLayer\\MosaicDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:06:10.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:06:10.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Models\\Person.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Models\\Person.cs",
@@ -359,12 +406,11 @@
               "RelativeToolTip": "SimulationProjectDay4\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:06:10.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:06:10.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Position.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Models\\Position.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Models\\Position.cs",
@@ -372,12 +418,11 @@
               "RelativeToolTip": "SimulationProjectDay4\\Models\\Position.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:06:10.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:06:10.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Models\\Role.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Models\\Role.cs",
@@ -385,12 +430,11 @@
               "RelativeToolTip": "SimulationProjectDay4\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:59:19.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:59:19.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\ScaffoldingReadMe.txt",
@@ -402,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\appsettings.json",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\appsettings.json",
@@ -414,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "20250520111529_createdUsersTable.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Migrations\\20250520111529_createdUsersTable.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Migrations\\20250520111529_createdUsersTable.cs",
@@ -426,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Properties\\launchSettings.json",
@@ -434,12 +478,11 @@
               "RelativeToolTip": "SimulationProjectDay4\\Properties\\launchSettings.json",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T11:26:04.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T11:26:04.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "20250519062813_CreatedPersonsAndPositionsTable.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Migrations\\20250519062813_CreatedPersonsAndPositionsTable.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Migrations\\20250519062813_CreatedPersonsAndPositionsTable.cs",
@@ -451,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Index.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Index.cshtml",
@@ -463,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Enums\\Roles.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Enums\\Roles.cs",
@@ -475,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Update.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Update.cshtml",
@@ -487,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Create.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Position\\Create.cshtml",
@@ -499,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\_ViewStart.cshtml",
@@ -511,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Create.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Create.cshtml",
@@ -523,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "PersonUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonUpdateVM.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Persons\\PersonUpdateVM.cs",
@@ -535,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Update.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Person\\Update.cshtml",
@@ -547,19 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "PersonGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
-              "RelativeToolTip": "SimulationProjectDay4\\ViewModels\\Persons\\PersonGetVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:06:10.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "PersonCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Persons\\PersonCreateVM.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Persons\\PersonCreateVM.cs",
@@ -572,18 +603,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SimulationProjectDay4\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:06:10.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -595,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -607,19 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SimulationProjectDay4\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABUBAAAAAAAAAADgvy8BAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T12:06:10.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -631,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Models\\BaseEntity.cs",
@@ -643,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -655,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "PositionGetVM.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Positions\\PositionGetVM.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Positions\\PositionGetVM.cs",
@@ -667,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "PositionCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Positions\\PositionCreateVM.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Positions\\PositionCreateVM.cs",
@@ -679,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "PositionUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\ViewModels\\Positions\\PositionUpdateVM.cs",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\ViewModels\\Positions\\PositionUpdateVM.cs",
@@ -691,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\SimulationDay4\\SimulationProjectDay4\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SimulationProjectDay4\\Views\\Shared\\_Layout.cshtml",
