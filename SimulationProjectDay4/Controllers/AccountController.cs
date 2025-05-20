@@ -53,7 +53,21 @@ namespace SimulationProjectDay4.Controllers
 
         public async Task<IActionResult> Login(LoginVM vm)
         {
+            if (!ModelState.IsValid)
+            return View(vm);
+            User? user = null;
+            if(vm.UsernameOrEmail.Contains("@"))
+            await _userManager.FindByEmailAsync(vm.UsernameOrEmail);
+            if (user is null)
+            {
+                ModelState.AddModelError("", "Username or password is incorrect");
+                return View();
+            }
+            var result=await _signInManager.PasswordSignInAsync(user,vm.Password, isPersistent: false,true);
+            if(!result.Succeeded)
+            {
 
+            }
         }
     }
 }
