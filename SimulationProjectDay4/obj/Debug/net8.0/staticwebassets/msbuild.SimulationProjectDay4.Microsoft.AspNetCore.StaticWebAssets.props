@@ -34704,6 +34704,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\010f57fc-b614-4431-a989-a0f9b855b940images.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SimulationProjectDay4</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SimulationProjectDay4</BasePath>
+      <RelativePath>imgs/persons/010f57fc-b614-4431-a989-a0f9b855b940images.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6s1jcv7s50</Fingerprint>
+      <Integrity>xmeomgx1hhxz+3UrP3/tCzqPDL4gtwAnmXjG+ynzQn4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\010f57fc-b614-4431-a989-a0f9b855b940images.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\1e2181e8-c24e-465f-a8d9-a817803684c2zara-brand-40040.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SimulationProjectDay4</SourceId>
@@ -34740,6 +34758,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\41ffb627-2283-4fdc-b69c-a4932b4ce549S.H.logo.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\6168476a-5c02-42a6-82f9-f75ad7302b4bStradivarius_logo.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SimulationProjectDay4</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SimulationProjectDay4</BasePath>
+      <RelativePath>imgs/persons/6168476a-5c02-42a6-82f9-f75ad7302b4bStradivarius_logo.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>o8zanp9tnt</Fingerprint>
+      <Integrity>GORAT1mccqX8ya0F9/axSm2C+P7UdR5G6DoV+Hb4Oz4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\6168476a-5c02-42a6-82f9-f75ad7302b4bStradivarius_logo.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\80d417e3-d0bd-4d8a-a8e1-b714d9020410car white.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>SimulationProjectDay4</SourceId>
@@ -34775,6 +34811,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\82f47b58-089c-4c04-956e-f326d3cc5ac0apple.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\ba7ece79-bd34-44f5-943d-90852e9a7e2asas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SimulationProjectDay4</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SimulationProjectDay4</BasePath>
+      <RelativePath>imgs/persons/ba7ece79-bd34-44f5-943d-90852e9a7e2asas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>z39wnxyibx</Fingerprint>
+      <Integrity>4c48InDb9aLdY/F/f4rHqJdot00sgW9/DSO5r3rDfXE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\ba7ece79-bd34-44f5-943d-90852e9a7e2asas.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\cc941498-926c-4062-a9b9-1345072b80cccar garage back.jpg'))">
       <SourceType>Package</SourceType>

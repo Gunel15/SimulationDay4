@@ -1,5 +1,7 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SimulationProjectDay4.DataAccessLayer;
+using SimulationProjectDay4.Models;
 
 namespace SimulationProjectDay4
 {
@@ -12,6 +14,12 @@ namespace SimulationProjectDay4
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSQL"));
             });
+            builder.Services.AddIdentity<User, Role>(opt =>
+            {
+                opt.Password.RequiredLength = 4;
+                opt.Password.RequireDigit = true;
+
+            }).AddEntityFrameworkStores<MosaicDbContext>().AddDefaultTokenProviders();
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
@@ -29,7 +37,7 @@ namespace SimulationProjectDay4
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
             app.MapControllerRoute(
             name: "areas",
